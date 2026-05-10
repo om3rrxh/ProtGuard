@@ -10,7 +10,7 @@ Güvenli Şifreleme: Belirlenen kimlik bilgileri hashlib kütüphanesi kullanıl
 
 Sistem Entegrasyonu: winreg ve ctypes kullanarak Windows'un düşük seviyeli sistem bileşenleriyle etkileşime girer ve kilit ekranının bypass edilmesini zorlaştırır.
 
-🛠️ Nasıl Çalışır?
+# 🛠️ Nasıl Çalışır?
 Yapılandırma: Program başlatıldığında kullanıcıdan ana kimlik bilgilerini (Username & Password) girmesi istenir.
 
 Kilit Aktivasyonu: "Kilitle" butonuna basıldığında veya belirlenen senaryo gerçekleştiğinde uygulama tüm ekranı kaplar.
